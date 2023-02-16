@@ -1,1 +1,1 @@
-# A quick CNN for image recognition using fastai
+# A quick CNN for image recognition using PyTorch in fastai
